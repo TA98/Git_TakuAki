@@ -17,6 +17,7 @@ public class MainActivity extends Activity {
 		
 		Button btn = (Button)findViewById(R.id.button1);
 		
+		
 	}
 
 	@Override
